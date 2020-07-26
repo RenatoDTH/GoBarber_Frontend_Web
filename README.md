@@ -13,6 +13,6 @@ E depois rodar um:
 ```
 yarn start
 ```
-para rodar a aplicação.
+Para rodar a aplicação.
 
 Para melhor visualização, é recomendado rodar o [backend](https://github.com/RenatoDTH/GoBarber_Backend) da aplicação.
