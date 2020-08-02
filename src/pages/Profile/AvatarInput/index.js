@@ -41,7 +41,7 @@ function AvatarInput() {
         <img
           src={
             preview ||
-            'https://cdn.icon-icons.com/icons2/67/PNG/512/user_13230.png'
+            'https://api.adorable.io/avatars/50/abott@adorable.png'
           }
           alt=""
         />
